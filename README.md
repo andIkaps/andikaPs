@@ -1,7 +1,5 @@
 ![dIkaps card name](https://cardivo.vercel.app/api?name=Andika%20Permana%20Sidiq&description=Hi,%20i%27m%20a%20junior%20frontend%20developer%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/50601795?v=4&backgroundColor=%231e293b&instagram=_dIkaps_&github=andikaPs&pattern=ticTacToe&colorPattern=%23334155&fontColor=%23ddd&iconColor=%23fff&opacity=0.3&site=andikaps.github.io)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=andikaPs&show_icons=true&theme=synthwave)
-
 ## My Skill
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,3 +7,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+<p align="center">
+  ![github stats](https://github-readme-stats.vercel.app/api?username=andikaPs&show_icons=true&theme=synthwave)
+</p>
