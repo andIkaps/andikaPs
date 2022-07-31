@@ -1,5 +1,3 @@
-![dIkaps card name](https://cardivo.vercel.app/api?name=Andika%20Permana%20Sidiq&description=Hi,%20i%27m%20a%20junior%20frontend%20developer%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/50601795?v=4&backgroundColor=%231e293b&instagram=_dIkaps_&github=andikaPs&pattern=ticTacToe&colorPattern=%23334155&fontColor=%23ddd&iconColor=%23fff&opacity=0.3&site=andikaps.github.io)
-
 <p align="center"> <img src="https://img.shields.io/github/followers/andikaPs?style=social"/> <img src="https://img.shields.io/github/stars/andikaPs?style=social"/> </p>
 
 ## My Skill
