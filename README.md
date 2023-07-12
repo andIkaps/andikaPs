@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andika Permana Sidiq</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-# <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikaps&label=Profile%20views&color=0e75b6&style=flat" alt="andikaps" /> </p>
-
 - 🔭 I’m currently working on **PT Smart Multi Finance as a Fullstack Jr Developer**
 
 - 🌱 I’m currently learning **Go Language and GIN Web Framework**
