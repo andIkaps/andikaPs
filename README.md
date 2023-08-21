@@ -36,6 +36,5 @@
 
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=andikaps&show_icons=true&locale=en&theme=blue-green" alt="andikaps" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andikaps&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="andikaps" /></p>
 
