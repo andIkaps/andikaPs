@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andika Permana Sidiq</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **PT Smart Multi Finance as a Fullstack Jr Developer**
+- 🔭 I’m currently working at **PT Smart Multi Finance as a Fullstack Jr Developer**
 
-- 🌱 I’m currently learning **Go Language and GIN Web Framework**
+- 🌱 I’m currently learning **Go Language and GIN Web Framework** and **NEXTJS with Shadcn UI**
 
 - 👨‍💻 All of my projects are available at [https://andikaps.github.io/](https://andikaps.github.io/)
 
