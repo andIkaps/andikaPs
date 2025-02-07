@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go Language and GIN Web Framework** and **NEXTJS with Shadcn UI**
 
-- 👨‍💻 All of my projects are available at [https://andikaps.github.io/](https://andikaps.github.io/)
+- 👨‍💻 All of my projects are available at [https://dikaps.vercel.app](https://dikaps.vercel.app)
 
 - 📫 How to reach me **docs.dikaps@gmail.com**
 
